@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 ML Models/Email_Dataset/*.csv
 ML Models/URL_Dataset/*.csv
+ML Models/Email_Dataset/*.csv
+ML Models/URL_Dataset/*.csv
