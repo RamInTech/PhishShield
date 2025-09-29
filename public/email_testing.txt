@@ -1,0 +1,53 @@
+Safe
+
+Subject: Meeting Reminder: Project Review at 3 PM
+
+From: priya.sharma@company.com
+
+Body:
+Hi Team,
+
+This is a reminder about our project review meeting scheduled for today at 3:00 PM in the main conference room.
+
+Agenda:
+
+Progress updates from each module lead
+
+Discuss pending tasks and blockers
+
+Plan next sprint deliverables
+
+Please be on time and bring your weekly reports.
+
+Thanks,
+Priya Sharma
+Project Manager
+
+
+
+
+Spam
+
+Subject: 🎁 Congratulations! You’ve Won a Free iPhone 15!
+
+From: rewards@exclusive-offer.net
+
+Body:
+Dear User,
+
+You have been selected as one of our lucky winners! 🎉
+Claim your FREE brand-new iPhone 15 Pro Max today.
+
+👉 Just click the link below and enter your details to receive your prize:
+Claim Now
+
+Hurry! This limited-time offer expires in 24 hours.
+Don’t miss your chance to win.
+
+Best regards,
+The Rewards Team
+
+
+
+
+`uvicorn main:app --reload --port 8000`
